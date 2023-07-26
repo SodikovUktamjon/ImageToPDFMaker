@@ -1,0 +1,2 @@
+select * from sp_bank where mfo = 54;
+select * from sp_bank where mfo = 23;

@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: postgres
+    password: 123
+    url: jdbc:postgresql://localhost:5432/filebot
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
